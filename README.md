@@ -95,7 +95,7 @@ The chatbot will be available at http://localhost:8000
 - `cureX.pdf`: Project documentation and overview
 
 ## Documentation
-
+'https://gamma.app/docs/cureX-0dm31aih3z3oa6y'
 For a comprehensive overview of the project, please refer to the [cureX.pdf](./cureX.pdf) documentation file. This document contains detailed information about:
 
 - Project architecture and design
